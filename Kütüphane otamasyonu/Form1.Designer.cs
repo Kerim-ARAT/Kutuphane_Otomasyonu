@@ -75,7 +75,7 @@ namespace Kütüphane_otamasyonu
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.label2.Location = new System.Drawing.Point(6, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(98, 16);
+            this.label2.Size = new System.Drawing.Size(119, 20);
             this.label2.TabIndex = 2;
             this.label2.Text = "Üye İşlemleri";
             // 
@@ -123,7 +123,7 @@ namespace Kütüphane_otamasyonu
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.label3.Location = new System.Drawing.Point(6, 13);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(161, 16);
+            this.label3.Size = new System.Drawing.Size(199, 20);
             this.label3.TabIndex = 2;
             this.label3.Text = "Emanet Kitap İşlemleri";
             // 
@@ -183,7 +183,7 @@ namespace Kütüphane_otamasyonu
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.label1.Location = new System.Drawing.Point(-3, 1);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(105, 16);
+            this.label1.Size = new System.Drawing.Size(130, 20);
             this.label1.TabIndex = 2;
             this.label1.Text = "Kitap İşlemleri";
             // 
@@ -232,7 +232,7 @@ namespace Kütüphane_otamasyonu
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.label4.Location = new System.Drawing.Point(6, 13);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(157, 16);
+            this.label4.Size = new System.Drawing.Size(190, 20);
             this.label4.TabIndex = 2;
             this.label4.Text = "Sıralama ve özellikler";
             // 
@@ -290,7 +290,7 @@ namespace Kütüphane_otamasyonu
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.label5.Location = new System.Drawing.Point(447, 208);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(205, 42);
+            this.label5.Size = new System.Drawing.Size(260, 52);
             this.label5.TabIndex = 8;
             this.label5.Text = "Hoşgeldiniz";
             // 
@@ -302,7 +302,7 @@ namespace Kütüphane_otamasyonu
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.label6.Location = new System.Drawing.Point(260, 262);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(591, 26);
+            this.label6.Size = new System.Drawing.Size(738, 31);
             this.label6.TabIndex = 9;
             this.label6.Text = "Aşağıdaki menüleri kullanarak işlemlerinizi gerçekleştiriniz...";
             // 
@@ -312,7 +312,7 @@ namespace Kütüphane_otamasyonu
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label7.Location = new System.Drawing.Point(67, 680);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(49, 20);
+            this.label7.Size = new System.Drawing.Size(60, 25);
             this.label7.TabIndex = 11;
             this.label7.Text = "2023";
             // 
@@ -332,7 +332,7 @@ namespace Kütüphane_otamasyonu
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label12.Location = new System.Drawing.Point(879, 684);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(171, 16);
+            this.label12.Size = new System.Drawing.Size(209, 20);
             this.label12.TabIndex = 55;
             this.label12.Text = "Pintileblebi Yazılım A.Ş.";
             // 
@@ -350,7 +350,7 @@ namespace Kütüphane_otamasyonu
             // 
             // form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.CausesValidation = false;
@@ -373,7 +373,7 @@ namespace Kütüphane_otamasyonu
             this.Name = "form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Ana Sayfa";
-            this.Load += new System.EventHandler(this.Form1_Shown);
+            this.Load += new System.EventHandler(this.form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);

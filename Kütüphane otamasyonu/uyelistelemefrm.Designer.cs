@@ -67,8 +67,8 @@ namespace Kütüphane_otamasyonu
             // 
             this.btnİptal.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.btnİptal.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnİptal.Location = new System.Drawing.Point(333, 391);
-            this.btnİptal.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnİptal.Location = new System.Drawing.Point(307, 396);
+            this.btnİptal.Margin = new System.Windows.Forms.Padding(4);
             this.btnİptal.Name = "btnİptal";
             this.btnİptal.Size = new System.Drawing.Size(165, 52);
             this.btnİptal.TabIndex = 21;
@@ -80,8 +80,8 @@ namespace Kütüphane_otamasyonu
             // 
             this.btnGuncelle.BackColor = System.Drawing.Color.Aqua;
             this.btnGuncelle.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnGuncelle.Location = new System.Drawing.Point(160, 391);
-            this.btnGuncelle.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnGuncelle.Location = new System.Drawing.Point(134, 396);
+            this.btnGuncelle.Margin = new System.Windows.Forms.Padding(4);
             this.btnGuncelle.Name = "btnGuncelle";
             this.btnGuncelle.Size = new System.Drawing.Size(165, 52);
             this.btnGuncelle.TabIndex = 20;
@@ -96,8 +96,8 @@ namespace Kütüphane_otamasyonu
             this.comboCinsiyet.Items.AddRange(new object[] {
             "Kadın",
             "Erkek"});
-            this.comboCinsiyet.Location = new System.Drawing.Point(229, 208);
-            this.comboCinsiyet.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.comboCinsiyet.Location = new System.Drawing.Point(203, 213);
+            this.comboCinsiyet.Margin = new System.Windows.Forms.Padding(4);
             this.comboCinsiyet.Name = "comboCinsiyet";
             this.comboCinsiyet.Size = new System.Drawing.Size(192, 25);
             this.comboCinsiyet.TabIndex = 19;
@@ -107,7 +107,7 @@ namespace Kütüphane_otamasyonu
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label4.Location = new System.Drawing.Point(171, 180);
+            this.label4.Location = new System.Drawing.Point(145, 185);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(46, 20);
@@ -119,7 +119,7 @@ namespace Kütüphane_otamasyonu
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label3.Location = new System.Drawing.Point(116, 148);
+            this.label3.Location = new System.Drawing.Point(90, 153);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(94, 20);
@@ -131,7 +131,7 @@ namespace Kütüphane_otamasyonu
             this.label8.AutoSize = true;
             this.label8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label8.Location = new System.Drawing.Point(23, 336);
+            this.label8.Location = new System.Drawing.Point(5, 342);
             this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(184, 20);
@@ -143,7 +143,7 @@ namespace Kütüphane_otamasyonu
             this.label7.AutoSize = true;
             this.label7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label7.Location = new System.Drawing.Point(148, 304);
+            this.label7.Location = new System.Drawing.Point(122, 309);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(69, 20);
@@ -155,7 +155,7 @@ namespace Kütüphane_otamasyonu
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label6.Location = new System.Drawing.Point(152, 276);
+            this.label6.Location = new System.Drawing.Point(126, 281);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(64, 20);
@@ -167,7 +167,7 @@ namespace Kütüphane_otamasyonu
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label5.Location = new System.Drawing.Point(136, 244);
+            this.label5.Location = new System.Drawing.Point(110, 249);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(77, 20);
@@ -179,7 +179,7 @@ namespace Kütüphane_otamasyonu
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label2.Location = new System.Drawing.Point(133, 209);
+            this.label2.Location = new System.Drawing.Point(107, 214);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(83, 20);
@@ -191,7 +191,7 @@ namespace Kütüphane_otamasyonu
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.Location = new System.Drawing.Point(171, 116);
+            this.label1.Location = new System.Drawing.Point(145, 121);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(44, 20);
@@ -200,8 +200,8 @@ namespace Kütüphane_otamasyonu
             // 
             // txtOkunanSayi
             // 
-            this.txtOkunanSayi.Location = new System.Drawing.Point(229, 335);
-            this.txtOkunanSayi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtOkunanSayi.Location = new System.Drawing.Point(203, 340);
+            this.txtOkunanSayi.Margin = new System.Windows.Forms.Padding(4);
             this.txtOkunanSayi.Name = "txtOkunanSayi";
             this.txtOkunanSayi.Size = new System.Drawing.Size(192, 22);
             this.txtOkunanSayi.TabIndex = 9;
@@ -209,16 +209,16 @@ namespace Kütüphane_otamasyonu
             // 
             // txtEmail
             // 
-            this.txtEmail.Location = new System.Drawing.Point(229, 303);
-            this.txtEmail.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtEmail.Location = new System.Drawing.Point(203, 308);
+            this.txtEmail.Margin = new System.Windows.Forms.Padding(4);
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(192, 22);
             this.txtEmail.TabIndex = 8;
             // 
             // txtAdres
             // 
-            this.txtAdres.Location = new System.Drawing.Point(229, 271);
-            this.txtAdres.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtAdres.Location = new System.Drawing.Point(203, 276);
+            this.txtAdres.Margin = new System.Windows.Forms.Padding(4);
             this.txtAdres.Name = "txtAdres";
             this.txtAdres.Size = new System.Drawing.Size(192, 22);
             this.txtAdres.TabIndex = 7;
@@ -226,8 +226,8 @@ namespace Kütüphane_otamasyonu
             // 
             // txtAdSoyad
             // 
-            this.txtAdSoyad.Location = new System.Drawing.Point(229, 143);
-            this.txtAdSoyad.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtAdSoyad.Location = new System.Drawing.Point(203, 148);
+            this.txtAdSoyad.Margin = new System.Windows.Forms.Padding(4);
             this.txtAdSoyad.Name = "txtAdSoyad";
             this.txtAdSoyad.Size = new System.Drawing.Size(192, 22);
             this.txtAdSoyad.TabIndex = 10;
@@ -236,8 +236,8 @@ namespace Kütüphane_otamasyonu
             // 
             this.btnSil.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.btnSil.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnSil.Location = new System.Drawing.Point(1885, 111);
-            this.btnSil.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSil.Location = new System.Drawing.Point(1726, 116);
+            this.btnSil.Margin = new System.Windows.Forms.Padding(4);
             this.btnSil.Name = "btnSil";
             this.btnSil.Size = new System.Drawing.Size(165, 52);
             this.btnSil.TabIndex = 24;
@@ -248,7 +248,7 @@ namespace Kütüphane_otamasyonu
             // txtTcAra
             // 
             this.txtTcAra.Location = new System.Drawing.Point(775, 58);
-            this.txtTcAra.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtTcAra.Margin = new System.Windows.Forms.Padding(4);
             this.txtTcAra.Name = "txtTcAra";
             this.txtTcAra.Size = new System.Drawing.Size(192, 22);
             this.txtTcAra.TabIndex = 22;
@@ -256,8 +256,8 @@ namespace Kütüphane_otamasyonu
             // 
             // txtTc
             // 
-            this.txtTc.Location = new System.Drawing.Point(229, 111);
-            this.txtTc.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtTc.Location = new System.Drawing.Point(203, 116);
+            this.txtTc.Margin = new System.Windows.Forms.Padding(4);
             this.txtTc.Name = "txtTc";
             this.txtTc.Size = new System.Drawing.Size(192, 22);
             this.txtTc.TabIndex = 4;
@@ -266,8 +266,8 @@ namespace Kütüphane_otamasyonu
             // 
             // txtYas
             // 
-            this.txtYas.Location = new System.Drawing.Point(229, 175);
-            this.txtYas.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtYas.Location = new System.Drawing.Point(203, 180);
+            this.txtYas.Margin = new System.Windows.Forms.Padding(4);
             this.txtYas.Name = "txtYas";
             this.txtYas.Size = new System.Drawing.Size(192, 22);
             this.txtYas.TabIndex = 5;
@@ -275,8 +275,8 @@ namespace Kütüphane_otamasyonu
             // 
             // txtTelefon
             // 
-            this.txtTelefon.Location = new System.Drawing.Point(229, 239);
-            this.txtTelefon.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtTelefon.Location = new System.Drawing.Point(203, 244);
+            this.txtTelefon.Margin = new System.Windows.Forms.Padding(4);
             this.txtTelefon.Name = "txtTelefon";
             this.txtTelefon.Size = new System.Drawing.Size(192, 22);
             this.txtTelefon.TabIndex = 6;
@@ -295,7 +295,7 @@ namespace Kütüphane_otamasyonu
             "E-mail",
             "Okunan Kitap "});
             this.comboBox1.Location = new System.Drawing.Point(592, 55);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(4);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(160, 28);
             this.comboBox1.TabIndex = 25;
@@ -316,7 +316,7 @@ namespace Kütüphane_otamasyonu
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label10.Location = new System.Drawing.Point(64, 434);
+            this.label10.Location = new System.Drawing.Point(52, 488);
             this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(60, 25);
@@ -326,8 +326,8 @@ namespace Kütüphane_otamasyonu
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(21, 433);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox3.Location = new System.Drawing.Point(9, 487);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(35, 26);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -338,7 +338,7 @@ namespace Kütüphane_otamasyonu
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label12.Location = new System.Drawing.Point(1808, 446);
+            this.label12.Location = new System.Drawing.Point(1702, 446);
             this.label12.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(209, 20);
@@ -350,7 +350,7 @@ namespace Kütüphane_otamasyonu
             this.btnDıs.BackColor = System.Drawing.Color.Gold;
             this.btnDıs.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnDıs.Location = new System.Drawing.Point(1577, 31);
-            this.btnDıs.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnDıs.Margin = new System.Windows.Forms.Padding(4);
             this.btnDıs.Name = "btnDıs";
             this.btnDıs.Size = new System.Drawing.Size(300, 52);
             this.btnDıs.TabIndex = 55;
@@ -364,12 +364,12 @@ namespace Kütüphane_otamasyonu
             this.dataGridView1.BackgroundColor = System.Drawing.Color.Silver;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.GridColor = System.Drawing.Color.Silver;
-            this.dataGridView1.Location = new System.Drawing.Point(529, 111);
+            this.dataGridView1.Location = new System.Drawing.Point(480, 116);
             this.dataGridView1.Margin = new System.Windows.Forms.Padding(4);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridView1.Size = new System.Drawing.Size(1348, 331);
+            this.dataGridView1.Size = new System.Drawing.Size(1226, 331);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.x);
             this.dataGridView1.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellDoubleClick);
@@ -378,8 +378,8 @@ namespace Kütüphane_otamasyonu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.ClientSize = new System.Drawing.Size(1924, 470);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ClientSize = new System.Drawing.Size(1924, 526);
             this.Controls.Add(this.btnDıs);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.label10);
@@ -407,9 +407,9 @@ namespace Kütüphane_otamasyonu
             this.Controls.Add(this.txtAdSoyad);
             this.Controls.Add(this.txtTc);
             this.Controls.Add(this.dataGridView1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "uyelistelemefrm";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "uyelistelemefrm";
             this.Load += new System.EventHandler(this.uyelistelemefrm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();

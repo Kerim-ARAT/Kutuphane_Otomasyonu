@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Net.NetworkInformation;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Window;
+using Npgsql;
 
 namespace Kütüphane_otamasyonu
 {
@@ -19,72 +20,92 @@ namespace Kütüphane_otamasyonu
         {
             InitializeComponent();
         }
-        
-        SqlConnection baglanti = new SqlConnection("Data Source = pinti\\SQLEXPRESS; Initial Catalog = KütüphaneOtamsayonu; Integrated Security = True");   
+
+        // PostgreSQL bağlantısı (SQL Server yerine)
+        private NpgsqlConnection baglanti = new NpgsqlConnection("Host=localhost;Port=5432;Username=postgres;Password=1234;Database=kutuphane;");
 
         private void UyeEkleFrm_Load(object sender, EventArgs e)
         {
 
+            this.FormBorderStyle = FormBorderStyle.None;
         }
-
-        private void textBox7_TextChanged(object sender, EventArgs e)
+        protected override void OnPaint(PaintEventArgs e)
         {
-
+            base.OnPaint(e);
+            using (Pen pen = new Pen(Color.Black, 5)) // 5px kalınlığında siyah kenarlık
+            {
+                e.Graphics.DrawRectangle(pen, 0, 0, this.ClientSize.Width - 1, this.ClientSize.Height - 1);
+            }
         }
-
-        private void textBox9_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-        
 
         private void btnİptal_Click(object sender, EventArgs e)
         {
             DialogResult dialog;
-            dialog = MessageBox.Show("Bu sayfayı kapatmak istiyormusunuz", "Kapat", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            dialog = MessageBox.Show("Bu sayfayı kapatmak istiyor musunuz?", "Kapat", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (dialog == DialogResult.Yes)
             {
                 this.Close();
-
             }
-
         }
 
         private void btnUyeEkle_Click(object sender, EventArgs e)
         {
             DialogResult dialog;
-            dialog = MessageBox.Show("Bu kişiyi eklemek istiyormusunuz?", "Kayıt", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            dialog = MessageBox.Show("Bu kişiyi eklemek istiyor musunuz?", "Kayıt", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
             if (dialog == DialogResult.Yes)
             {
-                baglanti.Open();
-                SqlCommand komut = new SqlCommand("insert into Uye(Tc,adsoyad,yas,cinsiyet,telefon,adres,email,okukitapsayisi)values(@Tc,@adsoyad,@yas,@cinsiyet,@telefon,@adres,@email,@okukitapsayisi)", baglanti);
-                komut.Parameters.AddWithValue("@Tc", txtTc.Text);
-                komut.Parameters.AddWithValue("@adsoyad", txtAdSoyad.Text);
-                komut.Parameters.AddWithValue("@yas", txtYas.Text);
-                komut.Parameters.AddWithValue("@cinsiyet", comboCinsiyet.Text);
-                komut.Parameters.AddWithValue("@telefon", txtTelefon.Text);
-                komut.Parameters.AddWithValue("@adres", txtAdres.Text);
-                komut.Parameters.AddWithValue("@email", txtEmail.Text);
-                komut.Parameters.AddWithValue("@okukitapsayisi", txtOkunanSayi.Text);
-                komut.ExecuteNonQuery();
-                baglanti.Close();
-                MessageBox.Show("Kayıt işlemi yapıldı");
+                try
+                {
+                    baglanti.Open();
+
+                    // PostgreSQL için uygun INSERT komutu
+                    string query = "INSERT INTO uye (tc, adsoyad, yas, cinsiyet, telefon, adres, email, okukitapsayisi) " +
+                                   "VALUES (@tc, @adsoyad, @yas, @cinsiyet, @telefon, @adres, @email, @okukitapsayisi)";
+
+                    using (NpgsqlCommand komut = new NpgsqlCommand(query, baglanti))
+                    {
+                        komut.Parameters.AddWithValue("@tc", txtTc.Text);
+                        komut.Parameters.AddWithValue("@adsoyad", txtAdSoyad.Text);
+                        komut.Parameters.AddWithValue("@yas", int.Parse(txtYas.Text));  // PostgreSQL int türüne çeviri
+                        komut.Parameters.AddWithValue("@cinsiyet", comboCinsiyet.Text);
+                        komut.Parameters.AddWithValue("@telefon", txtTelefon.Text);
+                        komut.Parameters.AddWithValue("@adres", txtAdres.Text);
+                        komut.Parameters.AddWithValue("@email", txtEmail.Text);
+                        komut.Parameters.AddWithValue("@okukitapsayisi", int.Parse(txtOkunanSayi.Text)); // Sayısal tür olduğundan int dönüşümü
+
+                        komut.ExecuteNonQuery();
+                    }
+
+                    MessageBox.Show("Kayıt işlemi başarıyla yapıldı!", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Hata: " + ex.Message, "Hata", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                finally
+                {
+                    baglanti.Close();
+                }
+
+                // Formu temizleme işlemi
                 foreach (Control item in Controls)
                 {
                     if (item is TextBox)
                     {
-                        if (item != txtOkunanSayi)
+                        if (item != txtOkunanSayi) // Okunan kitap sayısını silme
                         {
                             item.Text = "";
                         }
-
-
-
                     }
-
                 }
             }
+        }
 
-        }   
+        private void txtTc_Enter(object sender, EventArgs e)
+        {
+           
+        }
+        
     }
 }

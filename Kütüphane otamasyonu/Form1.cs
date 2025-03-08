@@ -17,11 +17,7 @@ namespace Kütüphane_otamasyonu
             InitializeComponent();
         }
 
-        private void Form1_Shown(object sender, EventArgs e)
-        {
-            
-
-        }
+        
 
         private void btnUyeEkle_Click(object sender, EventArgs e)
         {
@@ -95,6 +91,11 @@ namespace Kütüphane_otamasyonu
         private void btncıkıs_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void form1_Load(object sender, EventArgs e)
+        {
+            this.FormBorderStyle = FormBorderStyle.None;
         }
     }
 }
