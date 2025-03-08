@@ -75,3 +75,57 @@ C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyo
 C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.csproj.CopyComplete
 C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.exe
 C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.pdb
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\Kütüphane otamasyonu.exe.config
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\Kütüphane otamasyonu.exe
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\Kütüphane otamasyonu.pdb
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\itextsharp.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\Npgsql.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Buffers.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Memory.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Text.Json.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Threading.Channels.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.ValueTuple.dll
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\itextsharp.xml
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\Npgsql.xml
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Buffers.xml
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Collections.Immutable.xml
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Memory.xml
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Text.Json.xml
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Threading.Channels.xml
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\bin\Debug\System.ValueTuple.xml
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.csproj.AssemblyReference.cache
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.csproj.ResolveComReference.cache
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.bizkimiz.resources
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.EmanetKitapListelefrm.resources
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.EmanetKitapVermecs.resources
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.EmanetKitapİaedefrm.resources
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.form1.resources
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.Giris.resources
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.KitapEklefrmcs.resources
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.KitapListelefrm.resources
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.Properties.Resources.resources
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.siralamafrm.resources
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.sonuçlar.resources
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.UyeEkleFrm.resources
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.uyelistelemefrm.resources
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.csproj.GenerateResource.cache
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\K_t_phan.1F729E01.Up2Date
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.exe
+C:\Users\kerim\source\repos\Yeni klasör\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.pdb

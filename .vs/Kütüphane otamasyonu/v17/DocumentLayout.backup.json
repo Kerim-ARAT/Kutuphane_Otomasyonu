@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\siralamafrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\siralamafrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\uyeeklefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\uyeeklefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|c:\\users\\kerim\\source\\repos\\yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\kitapeklefrmcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\kitapeklefrmcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\kitapeklefrmcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\kitapeklefrmcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\tasarim (2).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\tasarim (2).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\bizkimiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\bizkimiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\emanetkitap\u0130aedefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\emanetkitap\u0130aedefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\emanetkitapvermecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\emanetkitapvermecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\kitaplistelefrmcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\kitaplistelefrmcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\sonu\u00E7lar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\sonu\u00E7lar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\k\u00FCt\u00FCphane otamasyonu\\emanetkitaplistelefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FFB2CDA-1363-47F1-AF95-79D1D95C7DFF}|K\u00FCt\u00FCphane otamasyonu\\K\u00FCt\u00FCphane otamasyonu.csproj|solutionrelative:k\u00FCt\u00FCphane otamasyonu\\emanetkitaplistelefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KitapEklefrmcs.cs",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\KitapEklefrmcs.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\KitapEklefrmcs.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\KitapEklefrmcs.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\KitapEklefrmcs.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwFAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:19:36.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tasarim (2).cs",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\tasarim (2).cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\tasarim (2).cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\tasarim (2).cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\tasarim (2).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Giris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\Giris.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\Giris.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\Giris.cs [Design]",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\Giris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Giris.cs",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\Giris.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\Giris.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\Giris.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\Giris.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAewE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "form1.cs",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\form1.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\form1.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\form1.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAlwBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmanetKitap\u0130aedefrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\EmanetKitap\u0130aedefrm.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\EmanetKitap\u0130aedefrm.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\EmanetKitap\u0130aedefrm.cs [Design]",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\EmanetKitap\u0130aedefrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bizkimiz.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\bizkimiz.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\bizkimiz.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\bizkimiz.cs [Design]",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\bizkimiz.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UyeEkleFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\UyeEkleFrm.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\UyeEkleFrm.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\UyeEkleFrm.cs [Design]",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\UyeEkleFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.17Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "uyelistelemefrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.cs [Design]",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.172Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmanetKitapVermecs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\EmanetKitapVermecs.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\EmanetKitapVermecs.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\EmanetKitapVermecs.cs [Design]",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\EmanetKitapVermecs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "uyelistelemefrm.cs",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAALkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KitapListelefrmcs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\KitapListelefrmcs.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\KitapListelefrmcs.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\KitapListelefrmcs.cs [Design]",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\KitapListelefrmcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\form1.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\form1.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\form1.cs [Design]",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KitapEklefrmcs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\KitapEklefrmcs.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\KitapEklefrmcs.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\KitapEklefrmcs.cs [Design]",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\KitapEklefrmcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "sonu\u00E7lar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\sonu\u00E7lar.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\sonu\u00E7lar.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\sonu\u00E7lar.cs [Design]",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\sonu\u00E7lar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmanetKitapListelefrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\EmanetKitapListelefrm.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\EmanetKitapListelefrm.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\EmanetKitapListelefrm.cs [Design]",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\EmanetKitapListelefrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "siralamafrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\siralamafrm.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\siralamafrm.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\siralamafrm.cs [Design]",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\siralamafrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.18Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "uyelistelemefrm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.Designer.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.Designer.cs",
+              "ToolTip": "C:\\Users\\kerim\\source\\repos\\Yeni klas\u00F6r\\K\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.Designer.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane otamasyonu\\uyelistelemefrm.Designer.cs",
+              "ViewState": "AgIAAJ8BAAAAAAAAAAAiwKwBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:55.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 404,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
